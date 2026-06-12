@@ -45,21 +45,18 @@ cd aplikasi-blog-240605110033
 
 ### Install Dependency
 
-```bash
 composer install
-```
 
 ### Salin File Konfigurasi
 
-```bash
 cp .env.example .env
-```
+
 
 ### Generate Application Key
 
-```bash
+
 php artisan key:generate
-```
+
 
 ### Atur Konfigurasi Database pada File `.env`
 
@@ -67,15 +64,15 @@ Sesuaikan konfigurasi database MySQL yang digunakan.
 
 ### Jalankan Migrasi Database
 
-```bash
+
 php artisan migrate
-```
+
 
 ### Jalankan Aplikasi
 
-```bash
+
 php artisan serve
-```
+
 
 ### Buka Browser
 
