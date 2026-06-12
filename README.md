@@ -34,15 +34,14 @@ Aplikasi dibangun menggunakan Framework Laravel dan database MySQL sesuai ketent
 
 ### Clone Repository
 
-```bash
+
 git clone https://github.com/Salwaa2946/aplikasi-blog-240605110033.git
-```
+
 
 ### Masuk ke Folder Project
 
-```bash
+
 cd aplikasi-blog-240605110033
-```
 
 ### Install Dependency
 
