@@ -41,7 +41,7 @@ git clone https://github.com/Salwaa2946/aplikasi-blog-240605110033.git
 ### Masuk ke Folder Project
 
 ```bash
-cd NAMA-REPOSITORY
+cd aplikasi-blog-240605110033
 ```
 
 ### Install Dependency
